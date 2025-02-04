@@ -1,4 +1,4 @@
-# EDA-Discount-strategy-for-the-company-
+# EDA-Discount-strategy-for-the-company-Eniac
 EDA and development of a new discount strategy for a fictitious company based on its historical data 
 
 This repository contains an exploratory data analysis (EDA) of a fictitious company Eniac's historical discount strategies to uncover patterns, trends, and their impact on sales performance. The main goal of this analysis was to determine whether discounting products is beneficial and, if so, to identify the optimal discount ranges for different product categories. More details and insights were presented in my presentation, where I analyzed specific discount strategies for each category.
